@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+
+dog_list = [ "Bob", "Charlie", "Mudge," ]
+
+cat_list = [ "Bailey", "Kitty", "Ginger" ]
+
+

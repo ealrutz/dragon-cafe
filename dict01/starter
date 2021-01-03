@@ -1,0 +1,8 @@
+Sam_dog = {"name": "Mudge", "age": 7}
+Evan_dog = {"name": "Toph", "age": 0.5}
+print(Sam_dog["name"])
+print(Evan_dog["age"])
+dogs = [Sam_dog, Evan_dog]
+print(dogs)
+print(dogs[1]["name"])
+

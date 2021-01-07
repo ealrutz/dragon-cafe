@@ -15,4 +15,5 @@ lookfor = input("What pattern am I looking for (Example: *.txt or *.cfg ")
 lookwhere = input("What is the path in which I should search? ")
 
 print(find(lookfor, lookwhere))
+# print(find(lookfor, lookwhere))
 
